@@ -1,7 +1,5 @@
 # Tic-Tac-Toe-with-SDL2 in C++
-
-# Sudoku game in C++ using SDL2
-![Screenshot1](Resources/Screenshot1.png?raw=true)
+![Screenshot2](Resources/Screenshot2.png?raw=true)
 
 ## Requirements
 - Microsoft Visual Studio
@@ -25,4 +23,4 @@ Key:
 - Grid colour changes depending whos turn it is (blue = cross, red = circle)
 - Winning row, col, or diagonal of 3 will be highlighted in that players corresponding colour
 
-![Screenshot2](Resources/Screenshot2.png?raw=true)
+![Screenshot1](Resources/Screenshot1.png?raw=true)
