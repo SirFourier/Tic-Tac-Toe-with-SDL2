@@ -20,3 +20,9 @@ Key:
   - Line = composition
   
 ![Framework](Resources/Framework.png?raw=true)
+
+- All cells act as buttons since they must be clicked by the mouse
+- Grid colour changes depending whos turn it is (blue = cross, red = circle)
+- Winning row, col, or diagonal of 3 will be highlighted in that players corresponding colour
+
+![Screenshot2](Resources/Screenshot2.png?raw=true)
