@@ -80,9 +80,9 @@ int main(int argc, char* argcv[])
 	}
 
 	// Load textures for cross("X"), circle("O"), and an empty texture
-	SDL_Texture* cross = loadTexture(renderer, "Resources/Cross.bmp");
-	SDL_Texture* circle = loadTexture(renderer, "Resources/Circle.bmp");
-	SDL_Texture* empty = loadTexture(renderer, "Resources/Empty.bmp");
+	SDL_Texture* cross = loadTexture(renderer, "assets/Cross.bmp");
+	SDL_Texture* circle = loadTexture(renderer, "assets/Circle.bmp");
+	SDL_Texture* empty = loadTexture(renderer, "assets/Empty.bmp");
 
 	// Create 3 x 3 grid of Cells
 	const int rows = 3;
