@@ -11,7 +11,7 @@
 - Copy and paste respository link
 - Open the solution file
 - Compile and run in x86 mode in either Debug or Release
-- If you want to run from the generated executable, make sure the dll files and resource folder are in the same directory as the executable.
+- If you want to run from the generated executable, make sure the dll files and assets folder are in the same directory as the executable.
 
 ## Framework diagram
 Key: 
