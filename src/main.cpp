@@ -92,7 +92,7 @@ int main(int argc, char* argcv[])
 
 	// Define borders and thus dimensions of cells
 	const int borderThickness = 10;
-	const int buttonWidth = (500 - 4 * borderThickness) / cols;
+	const int buttonWidth = (windowWidth - 4 * borderThickness) / cols;
 	const int buttonHeight = buttonWidth;
 
 	// Set all cell starting positions, dimensions and state
